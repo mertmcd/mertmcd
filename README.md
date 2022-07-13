@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertmcd&show_icons=true)
+![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=mertmcd&theme=material-palenight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertmcd&layout=compact)](https://github.com/mertmcd/github-readme-stats)
 
 
